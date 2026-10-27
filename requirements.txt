@@ -1,0 +1,3 @@
+pandas
+Pillow
+img2pdf
