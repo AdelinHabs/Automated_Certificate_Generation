@@ -96,10 +96,10 @@ Activate it on Windows:
 venv\Scripts\activate
 ```
 
-### 3. Install the dependencies
+### 3. Install the dependencies (requirements)
 
 ```bash
-pip install pandas pillow img2pdf
+pip install -r requirements.txt
 ```
 
 ## Configuration
