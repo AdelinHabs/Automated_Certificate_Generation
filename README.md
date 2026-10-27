@@ -208,7 +208,7 @@ No license is currently specified in the repository. Please add an appropriate o
 
 ## Author
 
-**AdelinHabs**
+**Adelin Habimana**
 
 GitHub: https://github.com/AdelinHabs
 
